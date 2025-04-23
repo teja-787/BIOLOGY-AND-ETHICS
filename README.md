@@ -16,16 +16,6 @@ The goal is to assist healthcare professionals in making early diagnoses and sel
 - Easy-to-use Streamlit interface.
 - Real-time visualizations.
 
-##  Folder Structure
-
-- `/models` – Pre-trained ML models (.pkl)
-- `/app` – Streamlit app files
-- `/data` – Sample datasets (replace with actual clinical data)
-- `/images` – Visualizations and figures
-- `SmartMed_Report_IEEE.pdf` – Project Report (IEEE Format)
-- `SmartMed_Presentation.pptx` – Final Presentation
-- `requirements.txt` – Dependencies list
-
 ##  Technologies Used
 - Python, Pandas, Scikit-learn
 - eamlit (for the f
